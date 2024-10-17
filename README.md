@@ -1,1 +1,1 @@
-# 113_DLBOI_Homework2
+# This is a collection of personal works recorded in the DLBOI course in the 113th academic year.
